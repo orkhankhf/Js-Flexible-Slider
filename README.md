@@ -1,1 +1,1 @@
-# Js-Flexible-Slider
+# Js Flexible Slider
